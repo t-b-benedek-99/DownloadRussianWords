@@ -3,7 +3,7 @@
   <groupId>tothsoftware.inc</groupId>
   <artifactId>DownloadRussianWords</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <!--some comment-->
   <dependencies>
 	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 	<dependency>
